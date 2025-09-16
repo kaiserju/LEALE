@@ -6,6 +6,6 @@ Within this file, you should make sure you have model output (from where you wan
 Inputs from the user are:
 - The complete filename from ETICO (pathnameETICOfile);
 - Pathname where is the model output (pathnamein);
-- Pathname where the result from LEALE will be saved (pathnameout)
+- Pathname where the result from LEALE will be saved (pathnameout).
 
 To run the script, the following packages are needed: os, netCDF4, pandas, pyresample, geopy, and datetime.
