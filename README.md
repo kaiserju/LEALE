@@ -8,4 +8,4 @@ Inputs from the user are:
 - Pathname where is the model output (pathnamein);
 - Pathname where the result from LEALE will be saved (pathnameout)
 
-To run the scripts, the following packages are needed: os, netCDF4, pandas, pyresample, geopy, and datetime.
+To run the script, the following packages are needed: os, netCDF4, pandas, pyresample, geopy, and datetime.
