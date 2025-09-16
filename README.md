@@ -1,6 +1,6 @@
 This repository hosts LEALE, a tool designed to estimate the salt wedge intrusion length in estuarine and riverine systems.
 
-To use this tool, the first step to be done is run ETICO tool (https://github.com/fabioviola-cmcc/EstuarIO_thalweg.git) to get the thalweg path.
+To use this tool, the first step to be done is run ETICO tool (https://github.com/fabioviola-cmcc/ETICO) to get the thalweg path.
 Within this file, you should make sure you have model output (from where you want to get the salinity information) in netCDF format.
 
 Inputs from the user are:
